@@ -7,7 +7,7 @@
 <br><br>
 I am a beginner in programming, and I am currently learning and exploring various concepts. Right now, I am coding primarily in C and focusing on learning the programming logic.
 <br><br>
-In my undergraduate studies I have been studying: C Programming Language, Computer Architecture, Computational Mathematics, Systems Analysis and Programming Logic.
+In my undergraduate studies I have been studying: C Programming Language, Computer Architecture, Computational Mathematics, Systems Analysis, Database, Software Engineering, Web Development and Programming Logic.
 <div  align="center" style="margin-bottom:100px">
 
 [![Luiz's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LuizBiscola&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
