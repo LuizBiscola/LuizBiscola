@@ -1,6 +1,6 @@
 # README
 <h1 class="intro__title">Hello, i am <span>Luiz 👋</span></h1>
-<span class="intro__position">Junior Developer
+<span class="intro__position">Backend Developer
 </span>
 <br><br>
 <p>I’m currently an undergraduate student at IFPR, studying Analysis and Systems Development.
