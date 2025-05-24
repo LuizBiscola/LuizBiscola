@@ -4,7 +4,7 @@
 
 Sou um estudante de Análise e Desenvolvimento de Sistemas no IFPR, apaixonado por programação e em constante aprendizado. Atualmente, meu foco principal é em C# e no ecossistema .NET.
 
-<br><br>
+<br>
 
 <div style="margin-bottom:100px margin-top:100px">
 
