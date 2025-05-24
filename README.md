@@ -17,7 +17,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas no IFPR, apaixonado p
 
 #### Main Stack:
 
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://docs.microsoft.com/en-us/dotnet/csharp/)&nbsp;
+[![C](https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://docs.microsoft.com/en-us/dotnet/csharp/)&nbsp;
 [![C#](https://img.shields.io/badge/C%23-6A1577?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
