@@ -6,7 +6,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas no IFPR, apaixonado p
 
 <br><br>
 
-<div  align="center" style="margin-bottom:100px margin-top:100px">
+<div style="margin-bottom:100px margin-top:100px">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBiscola&layout=compact&theme=dark#gh-dark-mode-only)
 
