@@ -4,7 +4,9 @@
 
 Sou um estudante de Análise e Desenvolvimento de Sistemas no IFPR, apaixonado por programação e em constante aprendizado. Atualmente, meu foco principal é em C# e no ecossistema .NET.
 
-<div  align="center" style="margin-bottom:100px">
+<br><br>
+
+<div  align="center" style="margin-bottom:100px margin-top:100px">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBiscola&layout=compact&theme=dark#gh-dark-mode-only)
 
