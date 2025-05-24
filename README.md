@@ -6,7 +6,6 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas no IFPR, apaixonado p
 
 <div  align="center" style="margin-bottom:100px">
 
-[![Luiz's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LuizBiscola&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBiscola&layout=compact&theme=dark#gh-dark-mode-only)
 
  </div>
