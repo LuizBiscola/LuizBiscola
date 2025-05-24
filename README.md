@@ -1,10 +1,9 @@
 # README
-<h1 class="intro__title">Hello, i am <span>Luiz 👋</span></h1>
-<span class="intro__position">Backend Developer
-</span>
-<br><br>
+## Olá, eu sou o Luiz 👋
+#### Desenvolvedor Backend
+
 Sou um estudante de Análise e Desenvolvimento de Sistemas no IFPR, apaixonado por programação e em constante aprendizado. Atualmente, meu foco principal é em C# e no ecossistema .NET.
-<br><br>
+
 <div  align="center" style="margin-bottom:100px">
 
 [![Luiz's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LuizBiscola&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
